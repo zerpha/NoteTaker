@@ -1,7 +1,7 @@
 # PinkNotes
 # A note taking application created with MERN technology. 
 
-![PinkNotes Demo] (https://github.com/zerpha/PinkNotes/blob/master/Demo.gif)
+![Demo](https://github.com/zerpha/PinkNotes/blob/master/Demo.gif)
 
 This application is meant for users who want to take notes akin the notecards. You add notecards to your collection in order to have an easier time orgamizing information
 aswell as testing yourself better.
